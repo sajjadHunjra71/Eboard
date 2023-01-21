@@ -1,0 +1,1 @@
+export var path='http://eboard.qubitars.com/api/';
